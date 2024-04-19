@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523450554386",
+    "project_id": "signlogin-c1da4",
+    "storage_bucket": "signlogin-c1da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523450554386:android:e352c733b79bfd6a9620cb",
+        "android_client_info": {
+          "package_name": "com.example.imagepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo278fZ3oB_YCxF4OtlTIj6gc0w1tOWNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
